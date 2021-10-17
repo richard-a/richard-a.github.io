@@ -9,9 +9,9 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #313a3d;
   width: 100%;
-  margin: 0 auto;
-  max-width: 650px;
-  padding: 0 16px;
+  margin: 40px auto;
+  max-width: 600px;
+  padding: 0 10px;
   line-height: 1.4;
 }
 
@@ -37,13 +37,13 @@ header#banner nav {
 header#banner h2 {
   display: inline;
   font-size: 21px;
-  font-size: 2.1rem;
+  font-size: 2.2rem;
   margin: 0 8px 0 0;
 }
 
 header#banner nav ul {
   list-style-type: none;
-  font-size: 1.05em;
+  font-size: 1.1em;
   text-transform: lowercase;
   margin: 0;
   padding: 0;
